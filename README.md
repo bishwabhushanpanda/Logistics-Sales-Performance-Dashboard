@@ -58,6 +58,9 @@ Customer Segment
 # Key Insights :
 
 Standard Class shipping contributes the highest volume of orders
+
 On-time delivery fluctuates across months, indicating operational inconsistencies
+
 Certain months show a drop in delivery performance → potential bottlenecks
+
 Sales vary significantly based on shipping mode and delivery timelines
